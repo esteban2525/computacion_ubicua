@@ -109,6 +109,11 @@ void drawWaterDrop(int x, int y) {
 
 
 
+<img width="1182" height="616" alt="image" src="https://github.com/user-attachments/assets/45eca6f2-b162-4c19-92b8-da98c436287f" />
+
+
+
+
 
 
 
