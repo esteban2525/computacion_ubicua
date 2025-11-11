@@ -107,6 +107,7 @@ void drawWaterDrop(int x, int y) {
   display.fillTriangle(x - 6, y, x, y - 12, x + 6, y, SSD1306_WHITE); // parte superior tipo gota
 }
 
+<img width="1101" height="820" alt="image" src="https://github.com/user-attachments/assets/dc4fde71-6a71-4d6d-8053-e86fccb5e2e2" />
 
 
 <img width="1182" height="616" alt="image" src="https://github.com/user-attachments/assets/45eca6f2-b162-4c19-92b8-da98c436287f" />
